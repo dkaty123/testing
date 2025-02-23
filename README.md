@@ -5,7 +5,7 @@ as
 First, run the development server:
 as
 ```basha
-npm run dev
+npm run de
 # or
 yarn dev
 # or
