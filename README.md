@@ -8,7 +8,8 @@ ass
 ```basha
 npm run de\
 # or
-yarn dev
+yarn devs
+
 # or
 pnpm dev
 # or
