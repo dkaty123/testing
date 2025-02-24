@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
+sThis is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
 
 ## Getting Started (ok)a
 asdasd
@@ -6,7 +6,7 @@ asasdasd
 First, run the development server:
 ass
 ```basha
-npm run de
+npm run de\
 # or
 yarn dev
 # or
