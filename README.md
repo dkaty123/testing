@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 asdasd
 asasdasd
 First, run the development server:
-as
+ass
 ```basha
 npm run de
 # or
