@@ -2,7 +2,7 @@ sThis is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next
 
 ## Getting Started (ok)a
 asdasd
-asasdasd
+asasdasds
 First, run the development server:
 ass
 ```basha
