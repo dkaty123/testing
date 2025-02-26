@@ -6,7 +6,7 @@ asasdasds
 First, run the development server:
 ass
 ```basha
-npm run de\
+npm run de\s
 # or
 yarn devs
 
