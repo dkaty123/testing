@@ -5,7 +5,7 @@ asdasd
 asasdasds
 First, run the development server:
 ass
-```basha
+```bashas
 npm run de\s
 # or
 yarn devs
